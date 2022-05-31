@@ -46,9 +46,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=codemanrj&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=codemanrj&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />  
 
-<br/> 
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemanrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
