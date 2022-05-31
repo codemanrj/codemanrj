@@ -1,8 +1,3 @@
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 ### Hi there 👋
 ### <div align="center">I'm Raul. I'm looking for full-time Software Engineering role🚀</div>  
