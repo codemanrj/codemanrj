@@ -1,13 +1,12 @@
   
-### Hi there 👋
-### <div align="center">I'm Raul. I'm looking for full-time Software Engineering role🚀</div>  
+### <div> Hi there 👋 I'm Raul. I'm looking for full-time Software Engineering role🚀
   
 
 - 🔭 I’m currently working on [Mass Shooting Database](https://github.com/massshootingdatabase)  
   
 
 - 🌱 I’m currently learning and working with the MERN stack  
-  
+  <div>
 
 <br/>  
 
