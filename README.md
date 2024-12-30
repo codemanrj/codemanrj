@@ -1,11 +1,6 @@
   
-### <div> Hi there 👋 I'm Raul. I'm looking for full-time Software Engineering role🚀
-  
+### <div> Hi, I'm Raul, a full-time Google Software Engineer🚀  
 
-- 🔭 I’m currently working on [Mass Shooting Database](https://github.com/massshootingdatabase)  
-  
-
-- 🌱 I’m currently learning and working with the MERN stack  
   <div>
 
 <br/>  
@@ -56,16 +51,9 @@
 <div align="center">
 <a href="https://github.com/codemanrj" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rozayrj" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/rjmontan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rozayrj" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
