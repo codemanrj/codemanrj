@@ -1,5 +1,5 @@
   
-### <div> Hi, I'm Raul, a full-time Google Software Engineer🚀  
+### <div> Google Software Engineer🚀  
 
   <div>
 
